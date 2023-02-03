@@ -1,4 +1,3 @@
-# o2_bruteforce_dob_activation
 _For o2 Germany_
 
 This script can automatically bruteforce the birthdate required for sim card activation
