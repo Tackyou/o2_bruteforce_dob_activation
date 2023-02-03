@@ -1,4 +1,5 @@
 <?php
+// MIT License 2022 Tackyou
 class EasyCurl{
 	var $ch;
 	var $cookies;
